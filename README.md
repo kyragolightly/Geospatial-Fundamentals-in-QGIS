@@ -18,21 +18,22 @@ The following installations are general guidelines and may change in the future 
 **Windows:**
 
 1. You have the option to either install the standalone version of QGIS or install it in OSGeo4W.
-  a. For new users, the **standalone version** is recommended.
+
+* For new users, the **standalone version** is recommended.
 
 2. If you’re using the standalone version:
 
-a. Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of QGIS.
+* Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of QGIS.
 
-b. Select the Long Term Stable Release!
+* Select the Long Term Stable Release!
 
 3. If you’re using the OSGeo4W version:
 
-a. Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of OSGeor4W installer.
+* Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of OSGeor4W installer.
 
-b. Select *Desktop Express Install* and install the latest version of QGIS.
-* If you want the long term release, select *Advanced Install* and select *qgis-ltr-full* or *qgis-ltr*.
-* There’s also an option to install the development version.
+* Select *Desktop Express Install* and install the latest version of QGIS.
+> If you want the long term release, select *Advanced Install* and select *qgis-ltr-full* or *qgis-ltr*. 
+> There’s also an option to install the development version.
 
 **Mac:**
 
