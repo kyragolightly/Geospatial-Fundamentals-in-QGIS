@@ -52,10 +52,10 @@ Attend the workshop anyway, we can provide you with a cloud-based solution (Data
 You can also run these lessons on UC Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-fundamentals&urlpath=tree%2Fpython-fundamentals%2F). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the GIS-fundamentals-with-QGIS folder. CalNet ID credentials required.
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud by clicking this [Binder button](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master). By using this button, you cannot save your work. 
 
-#Run the code!
+# Run the code!
 
 
-#How to get help?
+# How to get help?
 
 
 # Resources
