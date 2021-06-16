@@ -18,19 +18,14 @@ The following installations are general guidelines and may change in the future 
 **Windows:**
 
 1. You have the option to either install the standalone version of QGIS or install it in OSGeo4W.
-
 * For new users, the **standalone version** is recommended.
 
 2. If you’re using the standalone version:
-
 * Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of QGIS.
-
 * Select the Long Term Stable Release!
 
 3. If you’re using the OSGeo4W version:
-
 * Go to the [download page](https://qgis.org/en/site/forusers/download.html) and either download the 32bit or 64bit version of OSGeor4W installer.
-
 * Select *Desktop Express Install* and install the latest version of QGIS.
 > If you want the long term release, select *Advanced Install* and select *qgis-ltr-full* or *qgis-ltr*. 
 > There’s also an option to install the development version.
@@ -38,8 +33,8 @@ The following installations are general guidelines and may change in the future 
 **Mac:**
 
 1. Go to the [download page](https://qgis.org/en/site/forusers/download.html) and download the latest version of QGIS.
-  a. Note that this is for macOS Sierra or later (10.13).
-  b. If you are using 10.15 or later QGIS may not be notarized yet. The first time you open the application you’ll need to right click on the icon, hold the option key, and manually pick *Open*.
+* Note that this is for macOS Sierra or later (10.13).
+* If you are using 10.15 or later QGIS may not be notarized yet. The first time you open the application you’ll need to right click on the icon, hold the option key, and manually pick *Open*.
 
 ### 2) Download the workshop materials
 Download the workshop materials by visiting the [GitHub repository](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS).To run these lessons on your laptop: 
