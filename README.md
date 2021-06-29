@@ -1,6 +1,6 @@
 # D-Lab GIS Fundamentals with QGIS workshop series 
 
-This is the repository for D-Lab's introductory R-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
+This is the repository for D-Lab's introductory GIS Fundamentals with QGIS workshop series. Laptop, Internet connection, and Zoom account required.
 
 # Workshop Goals
 
@@ -54,8 +54,6 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 # Run the code!
 
-
-# How to get help?
 
 
 # Resources
