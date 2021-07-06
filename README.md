@@ -37,7 +37,7 @@ The following installations are general guidelines and may change in the future 
 * If you are using 10.15 or later QGIS may not be notarized yet. The first time you open the application you’ll need to right click on the icon, hold the option key, and manually pick *Open*.
 
 ### 2) Download the workshop materials
-Download the workshop materials by visiting the [GitHub repository](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS).To run these lessons on your laptop: 
+Download the workshop materials by visiting the [GitHub repository](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS). To run these lessons on your laptop: 
 
 * Click the green "Clone or Download" button
 * Click "Download Zip"
@@ -51,10 +51,6 @@ Attend the workshop anyway, we can provide you with a cloud-based solution (Data
 
 You can also run these lessons on UC Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-fundamentals&urlpath=tree%2Fpython-fundamentals%2F). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the GIS-fundamentals-with-QGIS folder. CalNet ID credentials required.
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud by clicking this [Binder button](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master). By using this button, you cannot save your work. 
-
-# Run the code!
-
-
 
 # Resources
 
