@@ -65,4 +65,6 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
 
 # Contributors
+* [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall)
+
 
