@@ -1,4 +1,4 @@
-# D-Lab GIS Fundamentals with QGIS workshop series 
+# D-Lab GIS Fundamentals with QGIS series 
 
 This is the repository for D-Lab's introductory GIS Fundamentals with QGIS workshop series. Laptop, Internet connection, and Zoom account required.
 
